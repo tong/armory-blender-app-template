@@ -7,8 +7,8 @@
 
 Copy the template directory to your blender installation
 
-    mkdir -p ~/.config/blender/2.93/scripts/startup
-    cp -r armory ~/.config/blender/2.93/scripts/startup/bl_app_templates_user
+    mkdir -p ~/.config/blender/2.93/scripts/startup/bl_app_templates_user
+    cp -r ./armory ~/.config/blender/2.93/scripts/startup/bl_app_templates_user
 
 Run blender using the template
 
