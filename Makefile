@@ -1,5 +1,5 @@
 PROJECT=armory
-BLENDER_VERSION=2.93
+BLENDER_VERSION=3.3
 
 BLENDER_DIR = $(HOME)/.config/blender/$(BLENDER_VERSION)
 TPL_DIR = $(BLENDER_DIR)/scripts/startup/bl_app_templates_user

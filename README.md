@@ -15,6 +15,6 @@ Run blender using the template
 
 Or create an alias
 
-    alias armory='blender --app-template armory $@'
+    alias armory='blender --app-template armory'
 
 See: https://docs.blender.org/manual/en/latest/advanced/app_templates.html
