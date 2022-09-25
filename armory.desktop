@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Armory
+GenericName=3D game development
+Comment=3D modeling, animation, logic
+Keywords=3d;cg;modeling;animation;painting;sculpting;texturing;video editing;video tracking;rendering;render engine;cycles;game engine;python;
+Exec=armory %f
+Icon=armory
+Terminal=true
+Type=Application
+Categories=Development;Graphics;3DGraphics;
+MimeType=application/x-blender;
